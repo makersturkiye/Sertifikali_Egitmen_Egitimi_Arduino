@@ -1,9 +1,16 @@
+/*  Makers Turkiye
+ *  Taslak Adı: Butonla LED Kontrolü
+ *  Açıklama  : butona basıldıgında ledlerin 
+ *  sırayla yanmasını saglayan proje
+ */
+
 int led1 = 4;
 int led2 = 5;
 int led3 = 6;
 int led4 = 7;
 
 int buton = 2;
+
 void setup() {
   pinMode(buton, INPUT);
   
