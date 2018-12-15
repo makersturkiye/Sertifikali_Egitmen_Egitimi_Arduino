@@ -1,7 +1,7 @@
-int led1;
-int led2;
-int led3;
-int led4;
+int led1 = 4;
+int led2 = 5;
+int led3 = 6;
+int led4 = 7;
 
 int buton = 2;
 void setup() {
