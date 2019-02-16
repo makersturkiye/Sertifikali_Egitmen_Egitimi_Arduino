@@ -7,7 +7,8 @@ int isikDegeri;
 int led_pin = 5;
 
 void setup() {
-  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(led_pin, OUTPUT);
 
 }
 
