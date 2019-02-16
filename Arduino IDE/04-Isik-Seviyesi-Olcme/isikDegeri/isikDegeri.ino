@@ -2,7 +2,7 @@
 int esikDegeri = 100;
 
 // LED'in bağlı olduğu pin numarası
-int led_pin = 10;
+int led_pin = 5;
 
 void setup() {
   // put your setup code here, to run once:
