@@ -9,22 +9,9 @@ void setup() {
 }
 
 void loop() {
-  // Yeşil LED yakıldı
-  digitalWrite(red, HIGH);
-  digitalWrite(blue, HIGH);
-  digitalWrite(green, LOW);
-  delay(1000);
-
-  // Mavi LED yakıldı
-  digitalWrite(red, HIGH);
-  digitalWrite(blue, LOW);
-  digitalWrite(green, HIGH);
-  delay(1000);
-
-  // Kırmızı LED yakıldı
-  digitalWrite(red, LOW);
-  digitalWrite(blue, HIGH);
-  digitalWrite(green, HIGH);
+  analogWrite(red, 180);
+  analogWrite(blue, 0);
+  analogWrite(green, 255);
   delay(1000);
   
 }
