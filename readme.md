@@ -24,3 +24,6 @@ Bağlantı: https://www.tinkercad.com/things/f4gYsXiLp49
 
 8- Ultrasonik Sensör Kullanımı
 Bağlantı: https://www.tinkercad.com/things/lPogSh9s4X5
+
+9- Kızılötesi Kumanda Kullanımı
+Bağlantı: (henüz hazırlanmadı)
